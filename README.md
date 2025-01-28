@@ -1,4 +1,4 @@
-## Hi there
+## Hi there fun
 
 <!--
 **GenesisHolmes0x/GenesisHolmes0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
