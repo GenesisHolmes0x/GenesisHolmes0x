@@ -2,7 +2,7 @@
 <!--
 **GenesisHolmes0x/GenesisHolmes0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you Z3Nhbnpjdmo=c3pveGZrcWo=ZnNwaWxvYnQ=aml1dGFtd3o=d3RleHZ6YWk=started:
+Here are some ideas to get you Ym9mdGdjYXE=Z3Nhbnpjdmo=c3pveGZrcWo=ZnNwaWxvYnQ=aml1dGFtd3o=d3RleHZ6YWk=started:
 eHB3cXp5aXQ=dnd0ZGZ4c3A=
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
